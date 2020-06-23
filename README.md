@@ -1,3 +1,3 @@
 # CascadeClassifier-using-openCV
 
-This project related to Cascade classification. When you just using imported .xml file. It gives us fast object detection. 
+This project related to Cascade classification. When you just using importing ".xml" file. It gives us fast object detection. 
