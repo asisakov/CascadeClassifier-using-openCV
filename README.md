@@ -1,2 +1,3 @@
 # CascadeClassifier-using-openCV
-Training using Cascades in cv2
+
+This project related to Cascade classification. When you just using imported .xml file. It gives us fast object detection. 
